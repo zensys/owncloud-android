@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App name  and other strings-->
-    <string name="app_name">ownCloud</string>
+    <string name="app_name">ZensysCloud</string>
     <string name="account_type">owncloud</string>	<!-- better if was a domain name; but changing it now would require migrate accounts when the app is updated -->
     <string name="authority">org.owncloud</string>	<!-- better if was the app package with ".provider" appended ; it identifies the provider -->
     <string name ="db_file">owncloud.db</string>
@@ -11,10 +11,10 @@
     <string name ="default_display_name_for_root_folder">ownCloud</string>
     
     <!-- URLs and flags related -->
-    <string name="server_url"></string>
-    <bool name="show_server_url_input">true</bool>
+    <string name="server_url">owncloud-test.zensys.cz</string>
+    <bool name="show_server_url_input">false</bool>
     <bool name="show_welcome_link">true</bool>
-	<string name="welcome_link_url">"https://owncloud.com/mobile/new"</string>
+	<string name="welcome_link_url">"http://www.zensys.cz/hosting"</string>
 	<string name="share_api_link"></string>
     
     <!-- Flags to setup the authentication methods available in the app -->
@@ -36,7 +36,7 @@
     <color name="button_text_color">#000000</color>
     
     <!-- Multiaccount support -->
-    <bool name="multiaccount_support">true</bool>
+    <bool name="multiaccount_support">false</bool>
     
     <!-- Help, imprint and feedback -->
     <bool name="help_enabled">true</bool>
@@ -46,7 +46,7 @@
     <string name="url_help">http://owncloud.com/mobile/help</string>
     <string name="url_imprint"></string>
     <string name="mail_recommend">"mailto:"</string>
-    <string name="mail_feedback">"mailto:apps@owncloud.com"</string>
+    <string name="mail_feedback">"mailto:support@zensys.cz"</string>
     <string name="url_app_download">"https://play.google.com/store/apps/details?id=com.owncloud.android"</string>
 
     <!--Destination mail for sending log files -->
