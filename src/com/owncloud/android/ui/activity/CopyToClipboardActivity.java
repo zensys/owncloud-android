@@ -17,7 +17,7 @@
 
 package com.owncloud.android.ui.activity;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 
 import android.app.Activity;
 import android.content.ClipData;

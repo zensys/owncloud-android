@@ -36,7 +36,7 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 
 
 /**

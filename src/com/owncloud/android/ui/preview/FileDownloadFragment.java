@@ -19,7 +19,7 @@ package com.owncloud.android.ui.preview;
 
 import java.lang.ref.WeakReference;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 import com.owncloud.android.datamodel.OCFile;
 import com.owncloud.android.files.services.FileDownloader.FileDownloaderBinder;
 import com.owncloud.android.ui.fragment.FileFragment;

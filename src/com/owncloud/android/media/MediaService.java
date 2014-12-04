@@ -37,7 +37,7 @@ import android.widget.Toast;
 
 import java.io.IOException;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 import com.owncloud.android.datamodel.OCFile;
 import com.owncloud.android.lib.common.utils.Log_OC;
 import com.owncloud.android.ui.activity.FileActivity;

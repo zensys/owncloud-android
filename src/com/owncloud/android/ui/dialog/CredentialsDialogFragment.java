@@ -18,7 +18,7 @@
 package com.owncloud.android.ui.dialog;
 
 import com.actionbarsherlock.app.SherlockDialogFragment;
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 import com.owncloud.android.authentication.AuthenticatorActivity;
 
 import android.app.AlertDialog;

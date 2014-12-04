@@ -25,7 +25,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 
 /**
  * A helper class for some string operations.

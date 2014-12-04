@@ -25,7 +25,7 @@ import android.os.Bundle;
 import android.view.KeyEvent;
 
 import com.actionbarsherlock.app.SherlockDialogFragment;
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 
 
 public class IndeterminateProgressDialog extends SherlockDialogFragment {

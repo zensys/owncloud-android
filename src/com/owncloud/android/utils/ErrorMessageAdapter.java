@@ -25,7 +25,7 @@ import org.apache.commons.httpclient.ConnectTimeoutException;
 
 import android.content.res.Resources;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 import com.owncloud.android.lib.common.operations.RemoteOperation;
 import com.owncloud.android.lib.common.operations.RemoteOperationResult;
 import com.owncloud.android.lib.common.operations.RemoteOperationResult.ResultCode;

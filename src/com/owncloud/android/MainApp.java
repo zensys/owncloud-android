@@ -18,11 +18,12 @@ package com.owncloud.android;
 
 import android.app.Application;
 import android.content.Context;
-
 import com.owncloud.android.datamodel.ThumbnailsCacheManager;
 import com.owncloud.android.lib.common.OwnCloudClientManagerFactory;
 import com.owncloud.android.lib.common.OwnCloudClientManagerFactory.Policy;
 import com.owncloud.android.lib.common.utils.Log_OC;
+import cz.zensys.owncloud.android.BuildConfig;
+import cz.zensys.owncloud.android.R;
 /**
  * Main Application of the project
  * 

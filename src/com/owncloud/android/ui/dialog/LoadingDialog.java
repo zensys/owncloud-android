@@ -16,7 +16,7 @@
  */
 package com.owncloud.android.ui.dialog;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 
 import android.app.Dialog;
 import android.os.Bundle;

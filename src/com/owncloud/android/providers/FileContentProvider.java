@@ -21,7 +21,7 @@ package com.owncloud.android.providers;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 import com.owncloud.android.datamodel.ThumbnailsCacheManager;
 import com.owncloud.android.db.ProviderMeta;
 import com.owncloud.android.db.ProviderMeta.ProviderTableMeta;

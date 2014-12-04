@@ -29,7 +29,7 @@ import java.util.Map;
 
 import javax.security.auth.x500.X500Principal;
 
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 
 import android.app.Dialog;
 import android.content.Context;

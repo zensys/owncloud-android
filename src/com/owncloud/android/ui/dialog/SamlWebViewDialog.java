@@ -35,7 +35,7 @@ import android.webkit.WebView;
 import android.widget.RelativeLayout;
 
 import com.actionbarsherlock.app.SherlockDialogFragment;
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 import com.owncloud.android.authentication.SsoWebViewClient;
 import com.owncloud.android.authentication.SsoWebViewClient.SsoWebViewClientListener;
 import com.owncloud.android.lib.common.OwnCloudClient;

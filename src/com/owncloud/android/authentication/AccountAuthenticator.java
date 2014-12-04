@@ -19,7 +19,7 @@
 package com.owncloud.android.authentication;
 
 import com.owncloud.android.MainApp;
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 
 import android.accounts.*;
 import android.content.Context;

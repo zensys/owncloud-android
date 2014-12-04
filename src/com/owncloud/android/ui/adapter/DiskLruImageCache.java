@@ -30,7 +30,7 @@ import android.graphics.Bitmap.CompressFormat;
 import android.graphics.BitmapFactory;
 
 import com.jakewharton.disklrucache.DiskLruCache;
-import com.owncloud.android.BuildConfig;
+import cz.zensys.owncloud.android.BuildConfig;
 import com.owncloud.android.lib.common.utils.Log_OC;
 
 public class DiskLruImageCache {

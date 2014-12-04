@@ -20,7 +20,7 @@ import java.util.Arrays;
 
 import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
-import com.owncloud.android.R;
+import cz.zensys.owncloud.android.R;
 import com.owncloud.android.utils.DisplayUtils;
 
 import android.app.AlertDialog;
