@@ -11,7 +11,7 @@
     <string name ="default_display_name_for_root_folder">ownCloud</string>
     
     <!-- URLs and flags related -->
-    <string name="server_url">owncloud-test.zensys.cz</string>
+    <string name="server_url">cloud.zensys.cz</string>
     <bool name="show_server_url_input">false</bool>
     <bool name="show_welcome_link">true</bool>
 	<string name="welcome_link_url">"http://www.zensys.cz/hosting"</string>
